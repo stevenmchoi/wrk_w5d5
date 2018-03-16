@@ -19,3 +19,18 @@
   text-shadow: black 0 0 10px;
   line-height: 1;
 }
+
+.content-header button {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.content-header button:hover {
+  background-color: #ccc;
+}

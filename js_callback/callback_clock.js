@@ -47,5 +47,3 @@ class Clock {
 }
 
 const clock = new Clock();
-
-// setTimeout(clock.printTime, 0);
